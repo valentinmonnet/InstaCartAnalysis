@@ -1,8 +1,9 @@
 # InstaCartAnalysis
 
 
-Instacart Sales Data Analysis Project
-Overview
+# Instacart Sales Data Analysis Project
+
+## Overview
 
 In my role as an analyst for Instacart, I am conducting a deep dive into their extensive sales data to discover patterns and insights. The objective is to refine and enhance their market segmentation and targeting strategies through a comprehensive exploratory analysis utilizing Python. This project is designed to possibly transform Instacart's marketing tactics and boost sales performance.
 
